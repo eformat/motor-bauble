@@ -18,3 +18,4 @@ Other types of documentation exist for the Cloud Adoption Framework
 * `Tutorials` - step by step creation of applications in the Open Hybrid Cloud.
 * `How-to Guides` - recipes addressing key problems ans user cases.
 * `Reference Guides` - API technical reference for the Open Hybrid Cloud.
+
