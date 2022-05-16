@@ -7,4 +7,5 @@
 * Managed Cloud Services
 * Partnerships with cloud hyperscalers
 * Partnerships with Software Vendors (Operators, SaaS)
+* Partnerships with SI's
 * Application Fabric

@@ -8,3 +8,4 @@
 * Open Hybrid Cloud Platform Vision
 * Optimize for secure fast flow
 * Outcomes over Outputs
+* Open Practices are needed in the Open Hybrid Cloud
