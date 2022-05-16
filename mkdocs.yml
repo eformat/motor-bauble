@@ -1,0 +1,36 @@
+site_name: Motor Bauble
+theme:
+  name: material
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/eformat
+    - icon: fontawesome/brands/github
+      link: https://github.com/eformat
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/eformat
+markdown_extensions:
+  - attr_list
+  - md_in_html
+nav:
+  - index.md
+  - 1-why.md
+  - 2-measure.md
+  - 3-navigator.md
+  - 4-greatness.md
+  - 5-motivation.md
+  - 6-balance.md
+  - 7-capability.md
+  - 8-teams.md
+  - 9-technology.md
+  - 10-journeys.md
+  - 11-busdevsecops.md
+  - 12-platforms.md
+  - 13-patterns.md
+  - 14-automation.md
+  - 15-humans.md
+  - 16-safety.md
+  - 17-loops.md
+  - 18-antipatterns.md
+  - 19-risk.md
+  - 20-bau.md
