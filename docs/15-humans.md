@@ -5,4 +5,4 @@
 * Put humans at the center of everything!
 * End users || Customers
 * Do not obsess over the process
-* Identify undifferentiated heavy lifting and eliminate of outsource it
+* Identify undifferentiated heavy lifting and eliminate or outsource it
