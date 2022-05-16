@@ -4,7 +4,7 @@
 
 * All workloads, Any cloud
 * Technology choices are important
-* Managed CLoud Services
+* Managed Cloud Services
 * Partnerships with cloud hyperscalers
 * Partnerships with Software Vendors (Operators, SaaS)
 * Application Fabric
