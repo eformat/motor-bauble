@@ -1,6 +1,10 @@
 site_name: Motor Bauble
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/git-alt 
+repo_url: https://github.com/eformat/motor-bauble
+repo_name: eformat/motor-bauble
 extra:
   social:
     - icon: fontawesome/brands/twitter
@@ -12,6 +16,8 @@ extra:
 markdown_extensions:
   - attr_list
   - md_in_html
+plugins:
+  - git-revision-date
 nav:
   - index.md
   - 1-why.md
