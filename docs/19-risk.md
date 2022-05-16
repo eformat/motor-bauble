@@ -9,3 +9,4 @@
 * Need for Speed
 * Efficiency
 * Risk management
+* Speed of innovation vs Speed of your business
